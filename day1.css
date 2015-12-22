@@ -1,0 +1,151 @@
+tab1 {
+    padding-left: 4em;
+} 
+
+tab2 {
+    padding-left: 8em;
+}
+
+tab3 {
+    padding-left: 12em;
+} 
+
+tab4 {
+    padding-left: 16em;
+} 
+
+.body h2 {
+    font-family: 'Raleway', sans-serif;
+    color: #333;
+    font-size: 30px;
+    text-align: center !important;
+}
+.body td {
+    padding: 20px;
+    align-items: center;
+}
+.nav ul li a:hover:not(.active){
+	color: #FCB909;
+}
+
+.nav{
+	height: 60px;
+/*	background: white;*/
+}
+
+.nav ul {
+    margin: 0;
+    padding: 0;
+    position: fixed;
+    width: 100%;
+    float: right;
+    background: black;
+}
+
+.nav ul li {
+    list-style: none;
+}
+
+.nav ul li a{
+    text-decoration: none;
+    float: left;
+    display: inline-block;
+    padding: 10px 10px; 
+    color: dimgray;
+}
+#nav {
+    top: 20px;
+    right: 40px;
+}
+
+.body p{
+    color: #9E9E9E;
+    text-align: center;
+}
+.body {
+    height: auto;
+    width: auto;
+    color: #333;
+}
+
+.oft h2 {
+    font-family: 'Raleway', sans-serif;
+    color: #333;
+    font-size: 30px;
+    text-align: center !important;
+}
+.oft td {
+    padding: 20px;
+    align-items: center;
+}
+
+.oft p{
+    color: #9E9E9E;
+    text-align: center;
+}
+.oft {
+    height: auto;
+    width: auto;
+    color: #333;
+    margin-bottom: 100px;
+}
+.oft table{
+    margin-left: 250px;
+}
+
+
+.wwd {
+    height: 250px;
+    width: auto;
+    background: #f6ecc5;
+    margin-bottom: 50px;
+}
+
+.wwd table{
+    margin-left: 100px;
+    padding: 10px 10px;
+}
+.wwd td {
+    color: #333;
+    padding: 10px 10px;
+}
+
+.wwd p{
+    color: #9E9E9E;
+}
+
+.lwork h2 {
+    font-family: 'Raleway', sans-serif;
+    color: #333;
+    font-size: 30px;
+    text-align: center !important;
+}
+.lwork p{
+    color: #9E9E9E;
+    text-align: center;
+}
+.lwork table{
+    margin-left: 250px;
+}
+#labels {
+    color: #9E9E9E;
+    text-align: center
+}
+#tags td{
+    list-style: none;
+    display: inline-block;
+    border: 1px solid #E5E5E5;
+    font-size: 13px;
+    border-radius: 2px;
+    color: #888;
+}
+#tags td:hover{
+	color: #FCB909;
+    border-color: #FCB909;
+}
+#tab1{
+    margin-left: 80px;
+}
+#tab2{
+    margin-left: 100px;
+}
